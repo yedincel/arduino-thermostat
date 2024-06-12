@@ -11,3 +11,5 @@ Gerekli malzemeler:
 - Jumper Kablolar
   
 Veya https://wokwi.com üzerinden sanal bir devre oluşturabilirsiniz
+<br>
+Versiyon_1 linki: https://wokwi.com/projects/400073414918137857
